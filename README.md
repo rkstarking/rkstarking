@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there, I'm a Python Full Stack Developer! 👋
 
-<!--
-**rkstarking/rkstarking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I recently completed my Full Stack Web Development training and love building web applications using Python, Django, and modern frontend technologies.
 
-Here are some ideas to get you started:
+🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend: Python, Django
+
+Frontend: HTML5, CSS3, JavaScript , React
+
+Databases: PostgreSQL, MySQL, SQLite
+
+Tools: Git, GitHub, VS Code
+
+🚀 What I'm Doing
+
+💻 Building web applications and full-stack projects.
+
+📚 Learning advanced Python, REST APIs, and modern frameworks.
+
+🤝 Open to collaborating on beginner-friendly open-source projects.
+
+💼 Looking for full-stack, backend, or Python developer roles.
+
+
+
