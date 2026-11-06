@@ -1,26 +1,32 @@
-Hi there, I'm a Python Full Stack Developer! 👋
+# Hi there, I'm Roushan Kumar 👋
 
-I recently completed my Full Stack Web Development training and love building web applications using Python, Django, and modern frontend technologies.
+I am a passionate **Python Full Stack Developer** based in India. I love building responsive web applications, backend APIs, and modern frontend interfaces.
 
-🛠 Tech Stack
+---
 
-Backend: Python, Django
+### 🛠️ Tech Stack & Skills
 
-Frontend: HTML5, CSS3, JavaScript , React
+- **Languages:** Python, JavaScript, C++, HTML5, CSS3
+- **Frontend:** React, Tailwind CSS, Bootstrap
+- **Backend:** Django, REST APIs, Python
+- **Databases:** PostgreSQL, Supabase, MySQL
+- **Tools:** Git, GitHub, VS Code, Linux
 
-Databases: PostgreSQL, MySQL, SQLite
+---
 
-Tools: Git, GitHub, VS Code
+### 🔭 What I'm Working On
 
-🚀 What I'm Doing
+- 🌐 Building full-stack web applications and custom micro-SaaS projects.
+- ⚡ Deepening my knowledge in scalable web development and database architecture.
+- 🚀 Always open to collaborating on open-source projects or web development ideas.
 
-💻 Building web applications and full-stack projects.
+---
 
-📚 Learning advanced Python, REST APIs, and modern frameworks.
+### 📫 Connect with Me
 
-🤝 Open to collaborating on beginner-friendly open-source projects.
-
-💼 Looking for full-stack, backend, or Python developer roles.
+- **Email:** raushanr1k@gmail.com
 
 
+---
 
+*“Coding solutions that make a difference.”*
